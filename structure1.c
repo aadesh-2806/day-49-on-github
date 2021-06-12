@@ -6,7 +6,7 @@ struct Student
 	int roll;
 	char name[20];
 	float per;
-};
+}; 
 void main()
 {
 	//struct Student s[100];
